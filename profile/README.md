@@ -14,3 +14,4 @@ learn about the evolving world of technology and cultivate a sense of communityÂ
 
 ## Our Contributors 
 -[Dheeraj Ghosh](https://github.com/dj107)
+-[Karri Chaitanya](https://github.com/ShanuGitHub25)
