@@ -1,4 +1,4 @@
-[![Opinco Logo](profile/opinco.jpg)](https://opinco.vercel.app/)
+[![Opinco Logo](/opinco.jpg)](https://opinco.vercel.app/)
 
 ## About Us
 [OplnCo](https://opinco.vercel.app/) previously known as Devstucom represents Open Inclusive Collaborative. We as a community help our fellow students build skills
