@@ -1,4 +1,4 @@
-[![Opinco Logo](public/assets/opinco.jpg)](https://opinco.vercel.app/)
+[![Opinco Logo](profile/opinco.jpg)](https://opinco.vercel.app/)
 
 ## About Us
 [OplnCo](https://opinco.vercel.app/) previously known as Devstucom represents Open Inclusive Collaborative. We as a community help our fellow students build skills
@@ -12,5 +12,5 @@ learn about the evolving world of technology and cultivate a sense of communityÂ
 [![linkedIn-opinco](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/company/opincocommunity/)
 [![youtube-opinco](https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=YouTube)](https://www.youtube.com/c/OpInCoCommunity)
 
-
+## Our Contributors 
 [![Contributors](https://contrib.rocks/image?repo=OpInCo-Community/.github)](https://github.com/OpInCo-Community/.github/graphs/contributors)
