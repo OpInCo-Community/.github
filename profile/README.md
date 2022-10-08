@@ -13,4 +13,4 @@ learn about the evolving world of technology and cultivate a sense of communityÂ
 [![youtube-opinco](https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=YouTube)](https://www.youtube.com/c/OpInCoCommunity)
 
 ## Our Contributors 
--[Dheeraj Ghosh](https://github.com/dj107)
+-[Dheeraj Ghosh](https://github.com/umeshs25)
