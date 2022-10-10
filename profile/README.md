@@ -25,4 +25,5 @@ learn about the evolving world of technology and cultivate a sense of communityÂ
 - [Abhishek Neogi](https://github.com/AbhishekNeogi)
 - [Rashi Chauhan](https://github.com/Rashiiiiii)
 - [Jatin Agrawal](https://github.com/jatin41)
+- [sushmita](https://github.com/N-sush)
 
