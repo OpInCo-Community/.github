@@ -21,4 +21,5 @@ learn about the evolving world of technology and cultivate a sense of communityÂ
 - [Abhiuday Sinha](https://github.com/Abhiuday03)
 - [Karri Chaitanya](https://github.com/ShanuGitHub25)
 - [Hemani](https://github.com/hemanitekwani)
+- [Shruti Pandey](https://github.com/shrutiiihere)
 
