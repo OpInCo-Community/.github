@@ -23,4 +23,5 @@ learn about the evolving world of technology and cultivate a sense of communityÂ
 - [Hemani](https://github.com/hemanitekwani)
 - [Shruti Pandey](https://github.com/shrutiiihere)
 - [Abhishek Neogi](https://github.com/AbhishekNeogi)
+- [Rashi Chauhan](https://github.com/Rashiiiiii)
 
