@@ -16,6 +16,7 @@ learn about the evolving world of technology and cultivate a sense of communityÂ
 ## Our Contributors <br>
 
 - [Dheeraj Ghosh](https://github.com/dj107)
+- [Piyush Joshi](https://github.com/PiyushJoshi0103)
 - [SHIULI DANI](https://github.com/SHIULIDANI)
 - [Shivani Singh](https://github.com/Shivani8702)
 - [Abhiuday Sinha](https://github.com/Abhiuday03)
