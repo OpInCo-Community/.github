@@ -1,5 +1,6 @@
 [![Opinco Logo](opinco.jpg)](https://opinco.vercel.app/)
 
+
 ## About Us
 [OplnCo](https://opinco.vercel.app/) previously known as Devstucom represents Open Inclusive Collaborative. We as a community help our fellow students build skills
 through direct discussions and urge individuals to contribute to open source. Our vision is to build a holistic platform for young minds to socialise and
@@ -19,4 +20,5 @@ learn about the evolving world of technology and cultivate a sense of communityÂ
 - [Shivani Singh](https://github.com/Shivani8702)
 - [Abhiuday Sinha](https://github.com/Abhiuday03)
 - [Karri Chaitanya](https://github.com/ShanuGitHub25)
+- [Hemani](https://github.com/hemanitekwani)
 
