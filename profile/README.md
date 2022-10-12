@@ -30,4 +30,4 @@ Become a member of Organization by creating a `Issue` in [Support Repository](ht
 - [Jatin Agrawal](https://github.com/jatin41)
 - [sushmita](https://github.com/N-sush)
 - [Vaishnavi Satone](https://github.com/vasihnavi)
-
+- [Ishu pathak](https://github.com/Ishukumarpathak)
