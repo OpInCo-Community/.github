@@ -13,6 +13,9 @@ learn about the evolving world of technology and cultivate a sense of communityÂ
 [![linkedIn-opinco](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/company/opincocommunity/)
 [![youtube-opinco](https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=YouTube)](https://www.youtube.com/c/OpInCoCommunity)
 
+## Become a Member: <br>
+Become a member of Organization by creating a `Issue` in [Support Repository](https://github.com/OpInCo-Community/support) 
+
 ## Our Contributors <br>
 
 - [Dheeraj Ghosh](https://github.com/dj107)
