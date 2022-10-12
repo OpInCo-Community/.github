@@ -1,4 +1,4 @@
-![Opinco Logo](opinco.jpg)
+#  OpInCo Community
 
 
 ## About Us
