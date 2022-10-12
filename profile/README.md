@@ -1,4 +1,4 @@
-[![Opinco Logo](opinco.jpg)](https://opinco.vercel.app/)
+![Opinco Logo](opinco.jpg)
 
 
 ## About Us
